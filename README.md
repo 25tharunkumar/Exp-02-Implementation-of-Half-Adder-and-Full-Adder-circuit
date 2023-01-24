@@ -64,7 +64,8 @@ RTL realization
 ### RTL ![image](https://user-images.githubusercontent.com/123470785/214309425-c86a3e23-373a-46e3-a20c-e15ec40374f3.png)
 ![image](https://user-images.githubusercontent.com/123470785/214309622-f1d950f9-68f4-4d0c-a548-222d883649b6.png)
 
-### TIMING DIAGRAM
+### TIMING DIAGRAM ![image](https://user-images.githubusercontent.com/123470785/214309809-2f94b772-ddfe-4219-98c0-21288893e2b5.png)
+
 
 
 ### TRUTH TABLE 
