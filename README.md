@@ -61,7 +61,8 @@ Logic symbol & Truthtable
 RTL realization
 
 ### Output:
-### RTL
+### RTL ![image](https://user-images.githubusercontent.com/123470785/214309425-c86a3e23-373a-46e3-a20c-e15ec40374f3.png)
+
 ### TIMING DIAGRAM
 
 
